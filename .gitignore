@@ -3,6 +3,8 @@
 *.pot
 *.pyc
 __pycache__
+project/local_settings.py
+create_contacts.py
 db.sqlite3
 static/
 media/

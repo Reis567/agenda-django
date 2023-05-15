@@ -1,5 +1,6 @@
 from django.contrib import admin
 from contact import models
+# flake8: noqa
 
 # Register your models here.
 
