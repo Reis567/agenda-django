@@ -238,6 +238,10 @@
     background: rgba(255, 255, 0, 0.3);
     border: 1px solid rgba(255, 255, 0, 90%);
   }
+  .message.info {
+    background: rgba(113, 192, 97, 0.3);
+    border: 1px solid rgba(255, 255, 0, 90%);
+  }
   
   .form-wrapper {
     max-width: 60rem;
